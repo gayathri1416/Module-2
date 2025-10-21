@@ -21,7 +21,8 @@ print(result(a,b))
 ```
 
 ## Output
-<img width="845" height="355" alt="image" src="https://github.com/user-attachments/assets/80d5931f-2954-4ac0-94d7-a703b0e58c27" />
+<img width="759" height="247" alt="image" src="https://github.com/user-attachments/assets/b34a6bd3-9f40-495e-9524-6c4feb919cea" />
+
 
 
 

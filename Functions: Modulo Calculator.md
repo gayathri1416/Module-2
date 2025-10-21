@@ -12,16 +12,20 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 ```
-def result(a,b):
-    return a%b
+def oddeven(a):
+    if(a%2==0):
+        return "even"
+    else:
+        return "odd"
 a=int(input())
-b=int(input())
-print("mod of a and b:",result(a,b))
+l=oddeven(a)
+print(f"{a} is {l}")
 
 ```
 
 ## Output
-<img width="442" height="170" alt="image" src="https://github.com/user-attachments/assets/c6a292c0-15d0-48f2-b0a3-d338be995cb7" />
+<img width="845" height="355" alt="image" src="https://github.com/user-attachments/assets/b76b5b71-1fa2-4fee-b14d-7929327f25af" />
+
 
 ## Result
 ```

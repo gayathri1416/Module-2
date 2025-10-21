@@ -12,14 +12,11 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 ```
-def oddeven(a):
-    if(a%2==0):
-        return "even"
-    else:
-        return "odd"
+def result(a,b):
+    return a%b
 a=int(input())
-l=oddeven(a)
-print(f"{a} is {l}")
+b=int(input())
+print(result(a,b))
 
 ```
 

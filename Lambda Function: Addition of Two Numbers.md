@@ -15,6 +15,7 @@ f=lambda a,b:a+b
 print(f(a,b))
 
 ## Output
-<img width="651" height="307" alt="image" src="https://github.com/user-attachments/assets/36cd661a-655d-4618-9d4f-d7fe34f1bc90" />
+<img width="651" height="307" alt="image" src="https://github.com/user-attachments/assets/92521f59-df07-44ae-ae6c-40385ac158c9" />
+
 
 ## Result

@@ -24,7 +24,8 @@ print(f"{a} is {l}")
 ```
 
 ## Output
-<img width="845" height="355" alt="image" src="https://github.com/user-attachments/assets/b76b5b71-1fa2-4fee-b14d-7929327f25af" />
+<img width="845" height="355" alt="image" src="https://github.com/user-attachments/assets/80d5931f-2954-4ac0-94d7-a703b0e58c27" />
+
 
 
 ## Result
